@@ -1,0 +1,15 @@
+# 
+
+# deb cdrom:[Debian GNU/Linux 9.2.1 _Stretch_ - Official amd64 xfce-CD Binary-1 20171013-13:08]/ str$
+
+# deb cdrom:[Debian GNU/Linux 9.2.1 _Stretch_ - Official amd64 xfce-CD Binary-1 20171013-13:08]/ str$
+
+deb http://mirror.cs.uwm.edu/debian/ stretch main
+deb-src http://mirror.cs.uwm.edu/debian/ stretch main
+
+deb http://security.debian.org/debian-security stretch/updates main
+deb-src http://security.debian.org/debian-security stretch/updates main
+
+# stretch-updates, previously known as 'volatile'
+deb http://mirror.cs.uwm.edu/debian/ stretch-updates main
+deb-src http://mirror.cs.uwm.edu/debian/ stretch-updates main
